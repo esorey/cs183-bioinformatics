@@ -1,0 +1,26 @@
+My submission format is super weird, so here's a quick guide to where everything
+is. I used python3 for all of this code.
+
+Question 1:
+p1.jpg is the entirety of my answer.
+
+Question 2: Run hw2p2.py to see the assembled genome (python3 hw2p2.py at
+the terminal).
+
+Question 3:
+There are 13 isoforms. The images in p3.pdf show them.
+
+Question 4:
+The various files beginning with p4 show the dynamic programming tables and the
+resulting alignments.
+
+Question 5:
+My code is in hw2p5_global.py and hw2p6_local.py. The results are in the
+corresponding txt files. My comments are shown at the bottom of the python
+files.
+
+Question 6:
+My response to part 1, along with the code and my comments for part 2a are in
+hw2_p6_parts_1_and_2a.py. My code and comments for part 2b are in
+hw2_p6_part_2b.py. Running these scripts will print my results in a format that
+is hopefully easy to read.
